@@ -1,5 +1,6 @@
 # mystatusvue
-<<<<<<< HEAD
+VUE.js form for Covid-19 Quarantine Mood Tracker
+
 
 ## Project setup
 ```
@@ -24,5 +25,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
-VUE.js form for Covid-19 Quarantine Mood Tracker
->>>>>>> 2bd3641548dc879d3cdd0f15db508d619a690372
+
+
